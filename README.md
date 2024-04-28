@@ -2,6 +2,8 @@ Digital Clock - Dark & Light Mode
 Introduction
 The Digital Clock project is a sleek and modern clock interface that offers both dark and light modes to suit your preferences at any time of day. With a simple and elegant design, this digital clock is perfect for your desktop, tablet, or smartphone screen.
 
+![image](https://github.com/pourjavadi/Digital-Clock-Dark-Light/assets/116521724/78ae3573-a9fb-4877-943a-804428575505)
+
 Features
 Dark and Light Modes: Toggle between dark and light themes with a simple click.
 Responsive Design: Adapts seamlessly to different screen sizes.
